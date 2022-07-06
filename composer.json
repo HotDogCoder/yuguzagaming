@@ -7,10 +7,6 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/n1c/phpquery"
-        },
-        {
-            "type": "vcs",
             "url": "https://github.com/wiledia/laravel-money"
         },
         {
