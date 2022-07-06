@@ -37,7 +37,6 @@
     "require": {
         "php": ">=8.0",
         "laravel/framework": "^9.0",
-        "n1c/phpquery": "dev-master",
         "guzzlehttp/guzzle": "^7.4.2",
         "dborsatto/php-giantbomb": "^v2.2.0",
         "nesbot/carbon": "^2.37.0",
