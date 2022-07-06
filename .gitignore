@@ -13,7 +13,6 @@
 /.vscode
 Homestead.json
 Homestead.yaml
-.env
 .php-cs-fixer.cache
 .phpunit.result.cache
 .phpstorm.meta.php
